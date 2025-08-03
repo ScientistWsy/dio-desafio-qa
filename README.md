@@ -1,9 +1,9 @@
-# 🧪 Projeto de QA - Qualidade de Software
+# Projeto de QA - Qualidade de Software
 
 Este repositório contém artefatos, fluxos e documentação relacionados ao processo de **Quality Assurance (QA)** em projetos de desenvolvimento de software. O objetivo é estabelecer uma base padronizada para criação, execução e gestão de testes, promovendo qualidade e confiabilidade nas entregas.
 
 
-## 📌 Objetivo
+## Objetivo
 
 Implementar um processo estruturado de testes que permita:
 - Verificação completa das funcionalidades do sistema
@@ -12,7 +12,7 @@ Implementar um processo estruturado de testes que permita:
 - Redução de retrabalho e incidentes em produção
 
 
-## 🧠 Mapa Mental
+## Mapa Mental
 
 O projeto segue um fluxo mental bem definido, dividido nas seguintes etapas principais:
 
@@ -25,10 +25,8 @@ O projeto segue um fluxo mental bem definido, dividido nas seguintes etapas prin
 - Homologação Final
 - Encerramento e Relatório
 
-![Mapa Mental de QA](./A_mind_map_diagram_with_a_white_background_illustr.png)
 
-
-## 🔁 Fluxo de QA
+## Fluxo de QA
 
 1. **Levantamento de Requisitos**
    - Entendimento funcional e não funcional do sistema.
@@ -48,14 +46,12 @@ O projeto segue um fluxo mental bem definido, dividido nas seguintes etapas prin
    - Documentação de resultados e cobertura de testes.
 
 
-## 📄 Casos de Teste Inclusos
+## Casos de Teste Inclusos
 
 - ✅ Atualização de Dados Cadastrais do Usuário
 - ✅ Recuperação de Senha via E-mail
-- *(Mais cenários podem ser adicionados na pasta `test-cases/`)*
 
-
-## 🛠️ Tecnologias Recomendadas
+## Tecnologias Recomendadas
 
 Embora esse repositório seja focado no processo, sugerimos as seguintes ferramentas para automatização e gestão de QA:
 
@@ -65,3 +61,4 @@ Embora esse repositório seja focado no processo, sugerimos as seguintes ferrame
 - JIRA ou Trello (gestão de tarefas/bugs)
 - Allure / TestRail (relatórios de teste)
 - GitHub Actions / Jenkins (CI/CD)
+
