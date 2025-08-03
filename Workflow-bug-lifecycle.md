@@ -1,4 +1,4 @@
-# 🐞 Ciclo de Vida de um Bug - Workflow de QA
+# Ciclo de Vida de um Bug - Workflow de QA
 
 Este diagrama representa o ciclo completo de vida de um bug desde sua identificação até o encerramento, com foco no fluxo utilizado por equipes de QA e desenvolvimento.
 
@@ -50,3 +50,4 @@ stateDiagram-v2
     end note
     
     Fechado --> [*]
+
